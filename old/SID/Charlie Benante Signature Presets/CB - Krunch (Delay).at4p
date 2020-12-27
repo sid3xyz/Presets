@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="59841801-a7b5-496c-a9e5-7b72acb2fe32" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="3" StereoInput="0" />
+    <Input Input="1" GateThreshold="8.65964e-05" GateRelease="1500" GateDepth="-100" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="53d32ff2-4726-40d8-93ef-70f23fd36b73" Stomp1="e11b1dc5-1f7d-42ad-af30-0539b3646b3c" Stomp2="bc6a9f33-ac11-41f8-973d-0327d4f3e018" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Band100="1.30055" Band200="1.8931" Band400="4.16452" Band800="5.02443" Band1600="2.75561" Band3200="3.3246" />
+        <Slot1 Bypass="0" Delay="375" Feedback="1.5625" Level="0.078125" BPMSync="1" BPMMeter="1/8d" />
+        <Slot2 Bypass="0" Rate="1.61625" Depth="2.26562" Level="2.1875" BPMSync="0" BPMMeter="1/2" />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1.77828" Model="cfa6b70c-2c6c-4b83-b881-571a6343dfac">
+        <Amp Reverb_Darrell100="0" Presence_Darrell100="7.70312" Bass_Darrell100="6.29688" Middle_Darrell100="5.09375" Treble_Darrell100="3.15625" TreblePull_Darrell100="0" Master1_Darrell100="10" Gain1_Darrell100="9" Master2_Darrell100="7" Gain2_Darrell100="8.04688" Channel_Darrell100="1" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="cfa6b70c-2c6c-4b83-b881-571a6343dfac">
+        <Amp Reverb_Darrell100="0" Presence_Darrell100="9.03125" Bass_Darrell100="7" Middle_Darrell100="4" Treble_Darrell100="3" TreblePull_Darrell100="0" Master1_Darrell100="10" Gain1_Darrell100="9" Master2_Darrell100="7" Gain2_Darrell100="10" Channel_Darrell100="1" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="b3703de8-ff21-4f1e-aa89-364eeed3cb57" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" Mode="1" Delay="1.71875" LFOWidth="0.9375" LFOSpeed="5" Feedback="2.03125" Mix="1.46875" InputMode="0" OutputMode="1" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="017a9c1f-cffb-493b-abd0-54c31aac30aa" SpeakerModel0="d1ea0f3d-3e61-4188-8b83-d04f480334a1" SpeakerModel1="d1ea0f3d-3e61-4188-8b83-d04f480334a1" SpeakerModel2="d1ea0f3d-3e61-4188-8b83-d04f480334a1" SpeakerModel3="d1ea0f3d-3e61-4188-8b83-d04f480334a1">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="eb1d233a-8aec-4708-b42b-b4fd26397889" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.565217" Mic1XAxis="0.8" Mic0YAxis="0.173913" Mic1YAxis="0" Mic0Distance="0.0263154" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="017a9c1f-cffb-493b-abd0-54c31aac30aa" SpeakerModel0="d1ea0f3d-3e61-4188-8b83-d04f480334a1" SpeakerModel1="d1ea0f3d-3e61-4188-8b83-d04f480334a1" SpeakerModel2="d1ea0f3d-3e61-4188-8b83-d04f480334a1" SpeakerModel3="d1ea0f3d-3e61-4188-8b83-d04f480334a1">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.195652" Mic1XAxis="0.8" Mic0YAxis="-0.0434783" Mic1YAxis="0" Mic0Distance="0.0263154" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="9f1147a6-302f-48f3-a5bc-26cc5d399a8b" Rack1="9f1147a6-302f-48f3-a5bc-26cc5d399a8b" Rack2="9f1147a6-302f-48f3-a5bc-26cc5d399a8b" Rack3="9f1147a6-302f-48f3-a5bc-26cc5d399a8b">
+        <Slot0 Bypass="0" BassGain="5.62341" BassFreq="72.4223" BassQ="8" MidGain="2.37155" MidFreq="250.1" MidQ="3.39652" HighGain="2.18745" HighFreq="538.159" HighQ="3.05288" OutLevel="0.891251" />
+        <Slot1 Bypass="0" BassGain="3.95965" BassFreq="5386.12" BassQ="2.43032" MidGain="2.07208" MidFreq="9000" MidQ="1.83364" HighGain="4.06794" HighFreq="17000" HighQ="1.50603" OutLevel="0.891251" />
+        <Slot2 Bypass="0" BassGain="0.615265" BassFreq="1794.26" BassQ="2.84615" MidGain="0.469759" MidFreq="3250" MidQ="2.75563" HighGain="0.827883" HighFreq="7710" HighQ="8" OutLevel="1" />
+        <Slot3 Bypass="0" BassGain="5.62341" BassFreq="50" BassQ="8" MidGain="1.2079" MidFreq="1000" MidQ="1.46005" HighGain="1.66977" HighFreq="2800" HighQ="1.76714" OutLevel="0.891251" />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="9f1147a6-302f-48f3-a5bc-26cc5d399a8b" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="9f1147a6-302f-48f3-a5bc-26cc5d399a8b">
+        <Slot0 Bypass="0" BassGain="0.177828" BassFreq="62.118" BassQ="3.86701" MidGain="0.410471" MidFreq="757.971" MidQ="3.56006" HighGain="0.177828" HighFreq="13000" HighQ="8" OutLevel="1" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 Bypass="0" BassGain="1" BassFreq="100" BassQ="0.7" MidGain="1" MidFreq="1000" MidQ="0.7" HighGain="0.177828" HighFreq="20000" HighQ="1.24349" OutLevel="1" />
+    </RackB>
+    <Output Output="1" />
+    <MidiAssignments />
+    <MetaInfo Description="A crunchy dual-amp rig featuring the Darrell 100 (Based on Randall RG 100) sculpted by the 6 Band EQ (Based on MXR 6-band EQ) inspired by the song I Am The Law from the album Among the Living topped off with a Chorus and Digital Delay stomp FX" Style="Metal" SoundCharacter="Extreme" Instrument="H-H (LP)" Body="Solid Body" PickUpPosition="Bridge" Artist="Charlie Benante" Band="Anthrax" Song="I Am The Law" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

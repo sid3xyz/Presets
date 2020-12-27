@@ -1,0 +1,73 @@
+PINK FLOYD 
+Dark side of the Moon 
+
+My complete setup
+
+Amplitube 4 
+Presets: DSOTM e DSOTM2
+
+Stomps
+A1 Fuzz (vol 50% fuzz 70%)
+A3 Light OD + 7 Band EQ (drv 20% lvl 3,5) 
+B2 Uni-Vibe (int. 3.5, rt 3.13. vol 7)
+B4 Digital Delay 310ms fbk 33% lvl 2.7)
+
+
+
+BlueBoard Midi setup
+CC A -> Fuzz bypass
+CC B -> Diode Overdrive + Graphic eq bypass
+CC C -> Uni-Vibe bypass
+CC D -> Digital delay stomp bypass
+
+
+Rack A
+Delay and Reverb turned on for "live" sound
+
+
+Rack B 
+Rotary speaker to be turned on at will
+
+
+SONGS SETUP
+Note: BlueBoard A ON means that A is lit on the board, and the stomp is by-passed 
+
+
+Breathe
+Preset DSOTM
+rhythms (bridge pickup): Blueboard AB(D) ON
+solo (neck pickup): BlueBoard ABC ON
+
+Time
+Preset DSOTM
+intro (middle pickup): BlueBoard A(B)C ON, Delay Level raised to 5
+rhythm (middle pickup): BlueBoard ACD ON
+rythm 2 (neck pickup): BlueBoard ACD ON 
+solo (bridge pickup): BlueBoard BD ON (Delay level 1,8)
+
+
+Money (bridge pickup)
+Preset DSOTM2
+rhythm/melody: BlueBoard ACD ON guitar volume rolled down for OD
+solo1: BlueBoard BC ON
+solo2: BlueBoard BCD ON
+solo3: BlueBoard BC ON
+
+Us and Them (neck pickup)
+Preset DSOTM
+rythm:     BlueBoard ABCD ON
+str rythm: BlueBoard BCD ON
+
+Brain damage (bridge pickup)
+Preset DSOTM
+rhythm:   BlueBoard AB(C)D ON (C can be OFF)
+high pitch bends: BlueBoard ABC ON
+
+
+Eclipse (bridge pickup)
+Preset DSOTM
+rhythm:        BlueBoard AB(C)D ON (C can be OFF)
+solo/picking:  BlueBoard  BC ON
+
+
+

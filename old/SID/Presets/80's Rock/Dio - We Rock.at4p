@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="6cbc47f4-48b6-459e-9eee-d5b3e73991da" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="0" StereoInput="0" />
+    <Input Input="1" GateThreshold="0.00082" GateRelease="20" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="9f50e7f1-b447-4c64-b428-50eebbe2c3bc">
+        <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="5aa37004-52de-4846-bb7b-1816d98562de" Stomp1="8d7ff76e-9273-46b6-95d5-3d7bd667fff2" Stomp2="fd627f5e-ba11-4082-b546-a4f0b05985ff" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Threshold="5" Filter="40" Release="1" />
+        <Slot1 Bypass="0" Band100="0.891251" Band200="0.891251" Band400="1.05925" Band800="1.1885" Band1600="1.05925" Band3200="1.41254" Band6400="2.11349" Level="1" />
+        <Slot2 Bypass="0" Drive="0.703125" Level="7.42188" Tone="6.39063" />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="fb5fc82f-a926-4591-87d2-168906fd79d3">
+        <Amp AmpFlexiGain="6.95313" AmpFlexiBass="3.98438" AmpFlexiMid="6.01563" AmpFlexiTreble="6.48438" AmpFlexiPresence="3.04688" AmpFlexiReverb="0" AmpFlexiVolume="5.78125" AmpFlexiEqModel="adfff9d9-0883-4847-884d-ea7c74f125d7" AmpFlexiPowerAmpModel="38597178-913d-49d4-86e0-5ea2dd6c799b" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="dcc7c825-76f4-4703-8e1f-b8a12b30b1de">
+        <Amp AmpFlexiGain="6.71875" AmpFlexiBass="4.84375" AmpFlexiMid="3.4375" AmpFlexiTreble="5.07813" AmpFlexiPresence="4.375" AmpFlexiReverb="0" AmpFlexiVolume="4.6875" AmpFlexiEqModel="6f467889-41e9-4089-9bb6-14f6609bf794" AmpFlexiPowerAmpModel="ac1515f3-d554-469f-911c-d8577d6d2da0" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="c4ea21cc-6444-4779-9eee-62d4bc085410" SpeakerModel0="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel1="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel2="e372dd04-b11d-4958-8c29-0fbe341e97ca" SpeakerModel3="e372dd04-b11d-4958-8c29-0fbe341e97ca">
+        <Cab Size="100" HighLevel="0.77" RoomType="Amp Closet" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="23.0769" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="-0.246154" Mic1Pan="0.246154" Mic0Level="0.625453" Mic1Level="0.563211" Mic0XAxis="-0.4" Mic1XAxis="0.485714" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.171428" Mic1Distance="0.157143" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="8b147712-d44d-4564-a40f-fe288110ea6c" SpeakerModel0="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel1="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel2="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel3="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="46.1538" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="0f35a776-f6db-403d-930f-6b7f42fed749" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="1" Mic1Level="8.91251e-11" Mic0XAxis="0" Mic1XAxis="0.771428" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0" Mic1Distance="0.342857" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="0.999999" />
+    <MidiAssignments />
+    <MetaInfo Description="We Rock Rythm Guitar" Style="Metal" SoundCharacter="Hi-Gain" Instrument="S-S-H (Fat Str.)" Body="Solid Body" PickUpPosition="Bridge" Artist="Dio" Band="DIo" Song="We Rock" SongStructureElement="None" KeyWords="Dio,Vivian Campbell,We Rock" Type="Electric Guitar" />
+</Preset>

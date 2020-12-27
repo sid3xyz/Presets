@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="4cb88bba-3ebe-4582-86d0-f6cc40516f4d" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="0" StereoInput="0" />
+    <Input Input="1" GateThreshold="0.00184342" GateRelease="500.625" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="26c75920-d4bf-4e5e-900f-f78c70e06c17" Stomp1="16daf2e6-1c56-4abe-97c9-1fffe2b22bb2" Stomp2="d3e05ec0-2c7b-498a-adc0-b263e853ad30" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Output="0.551967" Sensitivity="5.07813" />
+        <Slot1 Bypass="0" Volume="4.6875" Gain="3.04688" Bass="0.859375" Mid="6.5625" Treble="7.65625" />
+        <Slot2 Bypass="0" Mode="Full" TriggerLevel="2.5" HiTriggerRange="1" />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="155f0121-a2ee-4e16-aaa0-44948f9be44f">
+        <Amp Lead_MarshallJCMSlash="0" Rhythm_MarshallJCMSlash="1" Gain_MarshallJCMSlash="5.46875" LeadVolume_MarshallJCMSlash="3.51563" Volume_MarshallJCMSlash="4.53125" Bass_MarshallJCMSlash="1.71875" Mid_MarshallJCMSlash="7.10938" Treble_MarshallJCMSlash="9.29688" Presence_MarshallJCMSlash="0" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="71a76a9f-cf70-4f59-971f-9864a055523c">
+        <Amp AmpFlexiGain="5" AmpFlexiBass="5" AmpFlexiMid="5" AmpFlexiTreble="5" AmpFlexiPresence="5" AmpFlexiReverb="1.25" AmpFlexiVolume="5" AmpFlexiEqModel="63993d7b-8cd0-4b72-bfe3-69951ef3e74a" AmpFlexiPowerAmpModel="a14c1f1e-be21-409d-9eb1-e9e2216c2b27" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="c97bc69c-c02d-4cce-b19d-859b72833550" SpeakerModel0="8c9127bc-e65e-47f1-bfd6-c873fdbe822d" SpeakerModel1="8c9127bc-e65e-47f1-bfd6-c873fdbe822d" SpeakerModel2="8c9127bc-e65e-47f1-bfd6-c873fdbe822d" SpeakerModel3="8c9127bc-e65e-47f1-bfd6-c873fdbe822d">
+        <Cab Size="100" HighLevel="0.77" RoomType="Large Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="0.076923" Mic0Model="9f8a2c8c-aa21-43ab-a316-5084479de02e" Mic1Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.457142" Mic1XAxis="0.714286" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.028571" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="936efc52-2172-4faf-9be5-e8f45244a2b9" SpeakerModel0="8c9127bc-e65e-47f1-bfd6-c873fdbe822d" SpeakerModel1="8c9127bc-e65e-47f1-bfd6-c873fdbe822d" SpeakerModel2="8c9127bc-e65e-47f1-bfd6-c873fdbe822d" SpeakerModel3="8c9127bc-e65e-47f1-bfd6-c873fdbe822d">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="0.169231" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="373859a6-cfc1-4c2c-ab8c-35ddbfb8ee77" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.4" Mic1XAxis="0.542857" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.014285" Mic1Distance="0" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="3c8d23d7-959a-4479-b9c2-46af9a77ba46" Rack1="9f1147a6-302f-48f3-a5bc-26cc5d399a8b" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" Dwell="2.01875" Mixer="2.19375" ModelMix="10" Tone="1.8" OutLevel="1.07654" />
+        <Slot1 Bypass="0" BassGain="0.399542" BassFreq="100" BassQ="0.7" MidGain="0.805842" MidFreq="1000" MidQ="0.7" HighGain="1.05545" HighFreq="2075.64" HighQ="1.51816" OutLevel="1" />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="1.11397" />
+    <MidiAssignments />
+    <MetaInfo Description="" Style="Rock" SoundCharacter="Drive" Instrument="H-H (LP)" Body="None" PickUpPosition="Bridge" Artist="" Band="" Song="" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

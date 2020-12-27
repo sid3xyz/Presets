@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<Preset Version="1.000000" Format="at3p" GUID="aa564637-db27-4316-92f6-d4752c7012c4" PresetBPM="120.000000" ProgramChange="-1">
+    <Chain Preset="3" StereoInput="0" />
+    <Input Input="0.805842" GateThreshold="0.000010" GateRelease="200.000000" GateDepth="-60.000000" />
+    <Tuner OutputVolume="1.000000" />
+    <StompA Bypass="0" Mute="0" OutputVolume="1.084317" Stomp0="5478981b-b18a-469f-81e7-a3e228cc9d50" Stomp1="fa1de2e2-102b-4edf-b3b5-23ceaeddedf0" Stomp2="5e65abef-82eb-4995-b911-d5eca4f8291e" Stomp3="58dbec22-58e0-464c-8c04-91fb9d9973e2" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="7ccf016f-e540-4e46-a124-8f19ce5ab2b1">
+        <Slot0 Bypass="1" Comp="60.156250" Level="0.469759" />
+        <Slot1 Bypass="1" Drive="3.828125" Level="8.906250" Tone="8.984375" />
+        <Slot2 Bypass="1" Drive="4.843750" Volume="0.000000" Tone="5.062500" />
+        <Slot3 Bypass="0" Sustain="1.953125" Volume="5.234375" Tone="8.906250" />
+        <Slot4 />
+        <Slot5 Bypass="1" Rate="1.718750" Depth="7.140625" Feedback="5.703125" Level="5.078125" BPMSync="0" BPMMeter="1/4" />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1.000000" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1.000000" Model="6e8690b3-f6cf-4c36-b3c2-7f38fcc5706e">
+        <Amp FAC="1" EQHz="5.500000" EQKhz="5.500000" HFDrive="7.218750" Gain="4.562500" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1.000000" Model="6e8690b3-f6cf-4c36-b3c2-7f38fcc5706e">
+        <Amp FAC="1" EQHz="5.500000" EQKhz="5.500000" HFDrive="5.421875" Gain="4.562500" />
+    </AmpB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.000000" OutputMix="0.000000" OutputPhase="0.000000" CabModel="4edd00f5-1dc0-4130-a3bb-7eb608e834ab">
+        <Cab Size="100.500000" HighLevel="0.770000" RoomType="Mid Studio" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50.000000" RoomPan="0.000000" RoomLevel="0.200000" MicsBalance="0.209302" Mic0Model="b216abec-6fae-4fcd-95fd-c89aacf60ee2" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0.000000" Mic1Pan="0.000000" Mic0Axis="0.371429" Mic1Axis="-0.800000" Mic0Distance="0.000000" Mic1Distance="0.014286" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="1.000000" OutputMix="0.000000" OutputPhase="0.000000" CabModel="e14ee65a-d22f-4109-ac7a-576c3f7a35c9">
+        <Cab Setup="BackClosed" Width="0.500000" Balance="0.500000" Speed="Slow" RoomType="Mid Studio" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="22.307692" RoomPan="0.000000" RoomLevel="0.331961" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="c11388bb-6326-4766-a440-ea9fa3f82425" Rack1="1189979a-db5d-4dc1-9228-7bd974d8a8c5" Rack2="59ab0817-b168-4bdc-b837-e3cba1efb2dd" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" Waveform="Sine" Rate="0.692249" Depth="69.687500" Feedback="5.078125" StereoMode="Mono" Mix="50.781250" OutLevel="1.000000" BPMSync="0" BPMMeter="1/4" />
+        <Slot1 Bypass="0" Mode="Mono" DelayTime="350" Feedback="24.218750" Filter="1830.058472" Mix="20.625002" OutLevel="1.000000" BPMSync="0" BPMMeter="1/4" />
+        <Slot2 Bypass="0" DecayTime="7.443750" Density="58" Color="5890.625000" Mix="12.187500" OutLevel="1.000000" />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1.000000" OutputPan="0.500000" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="1.582045" />
+    <MidiAssignments />
+    <PedalMacros Macro0="0.000000" Macro1="0.000000" Macro2="0.000000" Macro3="0.000000" Macro4="0.000000" Macro5="0.000000" />
+    <SwitchMacros Macro0="0.000000" Macro1="0.000000" Macro2="0.000000" Macro3="0.000000" />
+    <MetaInfo Description="Gilmour lead" Style="Rock" SoundCharacter="Loud" Instrument="S-S-S (Str.)" Body="None" PickUpPosition="Bridge" Artist="David Gilmour" Band="Pink Floyd" Song="" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

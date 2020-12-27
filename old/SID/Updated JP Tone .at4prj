@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DAWPROJECT id="xyMRWFZ" name="TempProject" projectVersion="1.0.0">
+  <MAINGROUP id="UOJjl3f" name="TempProject">
+    <GROUP id="0MOsSJ2" name="Playlist" lastClipId="0" projectLength="3600"
+           playlistBpm="120" playlistLoopStart="0" playlistLoopEnd="705600"
+           playlistLoopEnabled="0" playlistRulerInBeats="1" playlistTimeRatio="1"
+           playlistPitchRatio="1" playlistMetronomeState="0" playlistSnapToGrid="1"/>
+    <GROUP id="DahfkCT" name="Core" sampleRate="44100">
+      <PROCESSOR id="T86PRhL" name="Node" filterId="17" channelType="9" numChannels="2"
+                 trackNumber="0" trackPan="0.5" trackVolume="0.72299998998641967773"
+                 trackHiGain="0" trackMidGain="0" trackLowGain="0" trackInput="0"
+                 trackMuteButton="0" trackSoloButton="0" trackMutedBySolo="0"
+                 trackArmButton="1" trackSelected="1" trackFxButton="1" inputMIDIConnection="7"
+                 inputConnection="5" outputConnection="9" outputMIDIConnection="8"
+                 trackPluginState="6113.77CdswFH1Ulbyk1at0iHw3BLh.RYtM1ajklam0iHUQkQsfiHf7iO7.kbuclbg0FHVUlbyk1at0iHwHBHF8lbsEFc8HRXzQCbh.xQUkDQ8HRLkE1XjMlMi0BL2DiMsPCNzLVK3DlMh0BY1bCMyXyLzTSNjQiHf.kbkMWYzIDTM0iHwHCLh.BTx81YxEVaCgVXtcVY8HRKwHBHPIWYyUFcNEVak0iHMElbqAxLh.BTxU1bkQGTgQGZ8HxKUMWYxM2Kyklag41KD81X00VYtQ2bujzRfzTcrQWZsUFYoE1KA0FbrkFU0IVYfPyKPIWYyUFcy8RSgI2ZfLiKgQGMvIhO7LDZgklaf.kbkMWYz0iHvHBHSQWYxU1aI4Fb0QWOh.iHf7hO7jjavUGcfjjavUGc8HRLh.xQgQWYTglbkMGZuwFY8HRLk0BL0HBHGEFckIUYrUVXyUVOhHCLvHBHGEFckQTYvQGZ8HRK1.iHf7hO7PUctUlbfHTdvE1by0iHwHBHMUGck0iHvHBHOUGcvUGcV8Fa00VY8HRLh.BU04VYxQUdvUVOhLSMzT1XgUSLsPSM2DVKzDiX2zRNwbCYsLVY1DSL2TCN1jCL0HhO7PUctUlbf7hO77BU04VYx4COSQ2asAWPfHTdvE1by0iHvHBHMUGck0iHvHBHOUGcvUGcV8Fa00VY8HRLh.xTz8VavASOhfCY2XlY2XSYsjiL2LSKzXiX1zRN0PVMsLCY2HFY1XyMlYlYxHBHSQ2asAWL8HhYgECYkISYxzRLvHiXsPSYjYVKhMiX0zhLyLVYgUFYjUFYlAiHfLEcu0FbxziH2byLhgSYgcSKhUCMg0BMgMyXsjSNjYVKlYlXhYlMjISNxbSLh.xTz8VavMSOhbyMyHFNkE1MsHVMzDVKzD1Li0RN4PlYsXlYhIlY1PlL4HyMwHBHSQ2asAGM8HxM2LiX3TVX2zhX0PSXsPSXyLVK4jCYl0hYlIlXlYCYxjiL2DiHfLEcu0Fb0ziH2byLhgSYgcSKhUCMg0BMgMyXsjSNjYVKlYlXhYlMjISNxbSLh3COSw1azACHBkGbgM2b8HRLh.hPg4FYw.CL8HRLh.hPg4FYx.CL8HRLh.hPg4FYz.CL8HRLh.hPg4FY3.CL8HRLh.hPg4FYwXCLvziHwHBHBElajMiLv.SOh.iK0.SLwfyMh.hPg4FY1PCLvziHv3hL0DSL3jiHfvTY1UFa8HRLtjSN0HiMh.xK9vyTr8Fcw.hP4AWXyMWOh.iHfPjboYWY8HhLtTyM3DiLh.BSkYWYr0iHy3BNxfSLxHBHT8lak0iH33hL3DiL0HBHu3COSw1azICHu3COSw1azMCHu3COSw1azQCHu3COSw1azUCHu3COuLEcu0FbA4COSQ2asAmPfHTdvE1by0iHvHBHMUGck0iHvHBHOUGcvUGcV8Fa00VY8HRLh.xTz8VavASOhbyMyHFNkE1MsHVMzDVKzD1Li0RN4PlYsXlYhIlY1PlL4HyMwHBHSQ2asAWL8HxM2LiX3TVX2zhX0PSXsPSXyLVK4jCYl0hYlIlXlYCYxjiL2DiHfLEcu0FbxziH2byLhgSYgcSKhUCMg0BMgMyXsjSNjYVKlYlXhYlMjISNxbSLh.xTz8VavMSOhbyMyHFNkE1MsHVMzDVKzD1Li0RN4PlYsXlYhIlY1PlL4HyMwHBHSQ2asAGM8HxM2LiX3TVX2zhX0PSXsPSXyLVK4jCYl0hYlIlXlYCYxjiL2DiHfLEcu0Fb0ziH2byLhgSYgcSKhUCMg0BMgMyXsjSNjYVKlYlXhYlMjISNxbSLh3COSw1azACHu3COSw1azECHu3COSw1azICHu3COSw1azMCHu3COSw1azQCHu3COSw1azUCHu3COuLEcu0FbB4COA0FbAAhP4AWXyMWOh.iHfzTczUVOh.iHf7TczAWczY0arUWak0iHwHBHM8FYkwVOhXSYiQiXlcSXsP1X0jSKzPCMyzhXxXlXsDSY1PSMhYVMwjiLiIhO7DTavAhUuwVcsU1WMU1bg0TXxsVRIkTOhDCLh.BUxUlXrU1WMU1bg0TXxsVRIkTOhXiKybSMh.hPgM2be0TYyEVSgI2ZIkTR8HxLtXCN2TiHfzTZjQFak8USkMWXMElbqkTRI0iH03xLwHSMh.RSgMGckI2WMU1bg0TXxsVRIkTOhPiK4HSL3fiHfvTYgQFQxklck8USkMWXMElbqkTRI0iHw.iHfvTYgQVSgMGckI2WMU1bg0TXxsVRIkTOhTiKwPCL1LiHfHjbocFZzEyWMU1bg0TXxsVRIkTOhDiHfPkbkIFakMEZoYFce0TYyEVSgI2ZIkTR8HBLh.hPgM2bSgVZlQ2WMU1bg0TXxsVRIkTOh.iHfHEZ48USkMWXMElbqkTRI0iHwHBHDUVYv8USkMWXMElbqkTRI0iHvHBHLUVXj8USkMWXMElbqkTRI0iHwHBHBIWZmgFcx7USkMWXMElbqkTRI0iHvHBHEE2WMU1bg0TXxsVRIkTOhDiHfHTXtQFNvfjde0TYyEVSgI2ZIkTR8HRMtPCL4fyLh.hPg4FYxPCLHo2WMU1bg0TXxsVRIkTOhXiKwPyM0PiHfHTXtQ1M0.CR58USkMWXMElbqkTRI0iHy3hL4TCL3HBHBElajIiLv.CR58USkMWXMElbqkTRI0iH03RN1biLwHBHBElajYiMv.CR58USkMWXMElbqkTRI0iH13hLxjSMwHBHPIWYyUlaiU1WMU1bg0TXxsVRIkTOhDCLh.hTkYWYxI1WMU1bg0TXxsVRIkTOh.iHfLDagM2be0TYyEVSgI2ZIkTR8HRLh.xK9vyKA0FbA4COA0FbBAhP4AWXyMWOh.iHfzTczUVOh.iHf7TczAWczY0arUWak0iHwHBHM8FYkwVOhbSLgciMgkiYsLlY2.SKzXVM4zRN2DiYsjCN1PSXvTSM0HyLiIhO7DTavARPsAmQrUFdocTXo4VOhTiHfDTavYDakgWZBE1by0iH0HBHA0FbFwVY3kVSoQVOhTiHfDTavYDakgWZTIWYhwVY8HRMh.RPsAmQrUFdoAkbkMWYtMVY8HRMh.RPsAmQrUFdoIUY1Ulbh0iHw3hL0HBHA0FbFwVY3klUuwVcsUVOhTiHfDTavYDakgWZEEWSuQVYr0iH1LSN4LCY2HVK3LFYvzBMhciLsHlYkMSK1jSN0DSYlMSY2PSXh.RPsAmQrUFdoA0a2UlbA0FbM8FYkwVOhDVLzLVLlESYsHVYxDSKz.SNj0RNkIVLsTVNkIiLwXyXxHlL2HBHu3COuDTavIjO7vzauAmQ3EDHBkGbgM2b8HBLh.RS0QWY8HBLh.xS0QGb0QmUuwVcsUVOhDiHf7TczAWczAUXt0iHv3RMh.hTgM1ZvziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZwziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZxziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZyziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh3COSw1azACHu3COSw1azECHu3COSw1azICHu3COSw1azMCHu3COuvzauAmQ3EjO7vzauAmQ3IDHBkGbgM2b8HBLh.RS0QWY8HBLh.xS0QGb0QmUuwVcsUVOhDiHf7TczAWczAUXt0iHv3RMh.hTgM1ZvziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZwziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZxziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZyziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh3COSw1azACHu3COSw1azECHu3COSw1azICHu3COSw1azMCHu3COuvzauAmQ3IjO7LTXhEDHBkGbgM2b8HBLh.RS0QWY8HBLh.xS0QGb0QmUuwVcsUVOhDiHf7TczAWczAUXt0iHv3RMh.BQxkGSkYWYr0iH33RNwHSMwTVKwDiHfPjb4wTY1UFaS8Fau0iHvHBHDIWdLUlckwVS0QWY8HBLh.xS0QGb0QGTnE1bk0iHvHBHCElXM8FYkwVOhfCM4H1LyPCLsjSYxfSKzDSLl0RNlElYsTVN4H1MhIiXlI1L1HBHSAWYgsVYx0zajUFavziHxP1XwD1LiQSK1DlLvzBMjUlXsDVNiQVK0TVNyjSXkESYwXVXh.xTvUVXqUlbM8FYkwVL8HhLjMVLgMyXzzhMgICLsPCYkIVKgkyXj0RMkkyL4DVYwTVLlElHfLEbkE1ZkIWSuQVYrISOhHCYiESXyLFMsXSXx.SKzPVYh0RX4LFYsTSY4LSNgUVLkEiYgIBHSAWYgsVYx0zajUFayziHxP1XwD1LiQSK1DlLvzBMjUlXsDVNiQVK0TVNyjSXkESYwXVXh3COCElXfLUZ5UVOhDSLw3xM1TiHffTZmgFSkYWYr0iHv3xM2HBHR81asQUdvUVOhvTXxcVYfLEc0QVZuIBHR81as0TZiQUdvUVOhLzatQVYtMWYxABMwPiHfH0au0VS0QWY8HBLh.hTu8VaS8Fau0iHvHBHR81asAEZgMWY8HBLh.hTu8VaWkFYzgVOhXiLtLCL2biHfH0au0FTg4VOh.iHfH0au0FSkYWYr0iHv3RLvLyM2TiHfzTZiASSuQVYr0iHwTFMwD1XiQSK3TSXl0BMkgCMsHVYkQSKkElXiAiXkUiYkYVLh.RSoMVLM8FYkwVOhjSYzPCMxfiMsLVXhQSKzXSXzzhXlE1LsDlMjUSMhMiYlMlYhIBHMk1XvzTczUVOh.iHfzTZiESS0QWY8HBLh.RSoMFLS8Fau0iHvHBHMk1XwL0ar8VOh.iHfzTZiACTnE1bk0iHvHBHMk1Xw.EZgMWY8HBLh.RSoMFLPEla8HBLh.RSoMVLPEla8HBLh.RSoMFLLUlckwVOh.iK1LCL4TyMh.RSoMVLLUlckwVOh.iKyHCNzjSLh.RSoMFLXEDdoMWOh.iHfzTZiECVAgWZy0iHv3RN0XSMxHiHfzTZiASVAgWZy0iHv3xL1jSM1TiHfzTZiESVAgWZy0iHv3RLvfiM4XiHfzTZiACQoMGcg41Xk0iHvHBHMk1XwPTZyQWXtMVY8HBLtDSMwLSL1HBHMk1XvLEbkE1ZkIWOh.iHfzTZiEyTvUVXqUlb8HRLh.xK9vyKCElXA4COCElXBAhP4AWXyMWOh.iHfzTczUVOh.iHf7TczAWczY0arUWak0iHwHBHOUGcvUGcPEla8HBLtTiHfPjb4wTY1UFa8HBNtjSLxTSLk0RLwHBHDIWdLUlckw1Tuw1a8HBLh.BQxkGSkYWYr0TczUVOh.iHf7TczAWczAEZgMWY8HBLh.xPgIVSuQVYr0iH4XVX3LVNxPSK1TCMyzBMvfSMsHVM0HVK0fiX4jSXgQVXwbSYh.xTvUVXqUlbM8FYkwFL8HRXyL1XwfiX3zRY4HFMsPSNkMSKhEyXk0xLzLlM4H1Lw.iX3LiHfLEbkE1ZkIWSuQVYrESOhD1LiMVL3HFNsTVNhQSKzjSYyzhXwLVYsLCMiYSNhMSLvHFNyHBHSAWYgsVYx0zajUFaxziHgMyXiECNhgSKkkiXzzBM4T1LsHVLiUVKyPyX1jiXyDCLhgyLh.xTvUVXqUlbM8FYkw1L8HRXyL1XwfiX3zRY4HFMsPSNkMSKhEyXk0xLzLlM4H1Lw.iX3LiH9vyPgIFHSkldk0iHw.CLh.BRocFZLUlckwVOh.iK2biHfH0au0FU4AWY8HRSoQFHSQWcjk1ah.hTu8VaMk1XTkGbk0iHC8lajUlayUlbffyMh.hTu8VaMUGck0iHvHBHR81asM0ar8VOh.iHfH0au0FTnE1bk0iHvHBHR81ascUZjQGZ8HRMvHBHR81asAUXt0iHvHBHR81aswTY1UFa8HBLt.yM1jiLyHBHMk1XvzzajUFa8HRLkQSLgM1XzzBN0DlYsPSY3PSKhUVYzzRYgI1XvHVY0XVYlEiHfzTZiESSuQVYr0iH4TFMzPiL3XSKiElXzzBM1DFMsHlYgMSKgYCY0TiXyXlYiYlXh.RSoMFLMUGck0iHvHBHMk1XwzTczUVOh.iHfzTZiAyTuw1a8HBLh.RSoMVLS8Fau0iHvHBHMk1Xv.EZgMWY8HBLh.RSoMVLPgVXyUVOh.iHfzTZiACTg4VOh.iHfzTZiECTg4VOh.iHfzTZiACSkYWYr0iHv3RM4PiMvPiHfzTZiECSkYWYr0iHv3RM4PiMvPiHfzTZiACVAgWZy0iHs.iKvHCN0bSLh.RSoMVLXEDdoMWOh.iK3HBHMk1XvjUP3k1b8HBLh.RSoMVLYEDdoMWOh.iHfzTZiACQoMGcg41Xk0iHv3BLxfSM2DiHfzTZiECQoMGcg41Xk0iHv3BLwPiL3XiHfzTZiAyTvUVXqUlb8HBLh.RSoMVLSAWYgsVYx0iHwHBHu3COuLTXhIjO7HUXisVPfHTdvE1by0iHvHBHMUGck0iHvHBHOUGcvUGcV8Fa00VY8HRLh.xS0QGb0QGTg4VOh.iK0HBHRE1XqASOhTSNgIFL3DyMsHVL1fSKzHFYi0hX3LyMsT1LiIVXwTlYhICYjIBHRE1XqESOhjiYwDCM2DlMsLCLxXVKzfiYyzRX0H1XsHiMiMVMjMSN4DFNhIBHRE1XqISOhP1LhkyL0.yMsPiLvHVKzfiY1zRXigiLsXiY1XlL3jiL2HiMiIBHRE1XqMSOhP1LhkyL0.yMsPiLvHVKzfiY1zRXigiLsXiY1XlL3jiL2HiMiIhO7LEauQGLfHTdvE1by0iHwHBHDU1XgkGUo0VY8HRNtXCMxDSNh.BQk41boQWd8HhL0HBHC8FauIWOhTCN4.iK1HiHfzTZ30iHxHiKyPyL2HBHOUGcLUlckwVOhDiHf7hO7LEauQWLfHTdvE1by0iHwHBHBE1bycTXo4VOhDiHfHTXyMmQxUVb8HRLv.iHfHTXyMWT8HBLtbiHfzTZjcTXo4VOhDiHfzTZjYjbkEWOhDCLv.iHfzTZjEUOh.iK2HBHHk1YncTXo4VOh.iK1PSNyfiLh.BRocFZFIWYw0iH3TiK4XCN1HBHHk1YnEUOh.iK2HBHOUGcLUlckwVOhDiHf7hO7LEauQmLf7hO7LEauQ2Lf7hO77hTgM1ZA4CORE1XqIDHBkGbgM2b8HBLh.RS0QWY8HBLh.xS0QGb0QmUuwVcsUVOhDiHf7TczAWczAUXt0iHv3RMh.hTgM1ZvziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZwziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZxziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh.hTgM1ZyziHjMiX4LSMvbSKzHCLh0BM3XlMsD1X3HSK1XlMlICN4HyMxXyXh3COSw1azACHu3COSw1azECHu3COSw1azICHu3COSw1azMCHu3COuHUXislP9vyS0QGb0QGHOUGcvUGc8HRLtLCNxLyMh.xK9vSSoQVZAM2boclasUlazMGHu3COPIWYlUlbk41XkMGHQUWXrkFc40iHHk1YnIBHSQ2asA2bOYWYxMWXsAGao41Y8HRLh.BTxU1S1UlbyEVavwVZtcVOhDiHfDTav8jckI2bg0Fbrklam0iHwHBHHk1YnIUYy8Fa0QWZu4VOhDiHfDTavIUY1UlbhEUcgwVZzkWOhHUYgwlHfH0au0VT0EFaoQWd8HhTkEFah.xPgIlTkM2arUGco8la8HBRocFZh.xPgIVZtUFcGw1ahEFaBkGbgM2b8HBLh.hPP0zTuUmbiUVOhbDauIVXrIBHu3COAUGcu0VXzk1atAxTr8Fcy0iHwXiHf7hO77BTx81YxEVa9.."/>
+      <PROCESSOR id="MKvAsT5" name="Node" filterId="16" channelType="9" numChannels="2"
+                 trackNumber="1" trackPan="0.5" trackVolume="0.72299998998641967773"
+                 trackHiGain="0" trackMidGain="0" trackLowGain="0" trackInput="0"
+                 trackMuteButton="0" trackSoloButton="0" trackMutedBySolo="0"
+                 trackArmButton="0" trackSelected="0" trackFxButton="0" inputMIDIConnection="7"
+                 inputConnection="5" outputConnection="9" outputMIDIConnection="8"/>
+      <PROCESSOR id="ExGosQI" name="Node" filterId="15" channelType="9" numChannels="2"
+                 trackNumber="2" trackPan="0.5" trackVolume="0.72299998998641967773"
+                 trackHiGain="0" trackMidGain="0" trackLowGain="0" trackInput="0"
+                 trackMuteButton="0" trackSoloButton="0" trackMutedBySolo="0"
+                 trackArmButton="0" trackSelected="0" trackFxButton="0" inputMIDIConnection="7"
+                 inputConnection="5" outputConnection="9" outputMIDIConnection="8"/>
+      <PROCESSOR id="GPdtFLc" name="Node" filterId="14" channelType="9" numChannels="2"
+                 trackNumber="3" trackPan="0.5" trackVolume="0.72299998998641967773"
+                 trackHiGain="0" trackMidGain="0" trackLowGain="0" trackInput="0"
+                 trackMuteButton="0" trackSoloButton="0" trackMutedBySolo="0"
+                 trackArmButton="0" trackSelected="0" trackFxButton="0" inputMIDIConnection="7"
+                 inputConnection="5" outputConnection="9" outputMIDIConnection="8"/>
+      <PROCESSOR id="zyXkXKH" name="Node" filterId="13" channelType="9" numChannels="2"
+                 trackNumber="4" trackPan="0.5" trackVolume="0.72299998998641967773"
+                 trackHiGain="0" trackMidGain="0" trackLowGain="0" trackInput="0"
+                 trackMuteButton="0" trackSoloButton="0" trackMutedBySolo="0"
+                 trackArmButton="0" trackSelected="0" trackFxButton="0" inputMIDIConnection="7"
+                 inputConnection="5" outputConnection="9" outputMIDIConnection="8"/>
+      <PROCESSOR id="Jif5AbA" name="Node" filterId="12" channelType="9" numChannels="2"
+                 trackNumber="5" trackPan="0.5" trackVolume="0.72299998998641967773"
+                 trackHiGain="0" trackMidGain="0" trackLowGain="0" trackInput="0"
+                 trackMuteButton="0" trackSoloButton="0" trackMutedBySolo="0"
+                 trackArmButton="0" trackSelected="0" trackFxButton="0" inputMIDIConnection="7"
+                 inputConnection="5" outputConnection="9" outputMIDIConnection="8"/>
+      <PROCESSOR id="aArwcLc" name="Node" filterId="11" channelType="9" numChannels="2"
+                 trackNumber="6" trackPan="0.5" trackVolume="0.72299998998641967773"
+                 trackHiGain="0" trackMidGain="0" trackLowGain="0" trackInput="0"
+                 trackMuteButton="0" trackSoloButton="0" trackMutedBySolo="0"
+                 trackArmButton="0" trackSelected="0" trackFxButton="0" inputMIDIConnection="7"
+                 inputConnection="5" outputConnection="9" outputMIDIConnection="8"/>
+      <PROCESSOR id="9IvmnWy" name="Node" filterId="10" channelType="9" numChannels="2"
+                 trackNumber="7" trackPan="0.5" trackVolume="0.72299998998641967773"
+                 trackHiGain="0" trackMidGain="0" trackLowGain="0" trackInput="0"
+                 trackMuteButton="0" trackSoloButton="0" trackMutedBySolo="0"
+                 trackArmButton="0" trackSelected="0" trackFxButton="0" inputMIDIConnection="7"
+                 inputConnection="5" outputConnection="9" outputMIDIConnection="8"/>
+      <PROCESSOR id="g1IZ6ei" name="Node" filterId="9" channelType="10" numChannels="2"
+                 outputConnection="6"/>
+      <PROCESSOR id="2BKhdUA" name="Node" filterId="8" channelType="8" numChannels="2"
+                 outputMIDIConnection="4"/>
+      <PROCESSOR id="0SAZdXH" name="Node" filterId="7" channelType="7" numChannels="2"
+                 inputMIDIConnection="3"/>
+      <PROCESSOR id="d22tezR" name="Node" filterId="6" channelType="6" numChannels="2"
+                 outputConnectionName="0" outputConnectionName2="1"/>
+      <PROCESSOR id="lSBakhL" name="Node" filterId="5" channelType="5" numChannels="2"
+                 inputConnectionName="0" inputConnectionName2="1"/>
+      <PROCESSOR id="srplF98" name="Node" filterId="4" channelType="4" numChannels="2"/>
+      <PROCESSOR id="K3Ic4aV" name="Node" filterId="3" channelType="3" numChannels="2"/>
+      <PROCESSOR id="i4ZeRzz" name="Node" filterId="2" channelType="2" numChannels="2"/>
+      <PROCESSOR id="Lgin1QX" name="Node" filterId="1" channelType="1" numChannels="2"/>
+    </GROUP>
+  </MAINGROUP>
+</DAWPROJECT>

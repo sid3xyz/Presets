@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="c6a2cab1-687e-4a43-84d1-f05ee9a90437" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="1" StereoInput="0" />
+    <Input Input="1.34557" GateThreshold="1e-05" GateRelease="200" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="9f50e7f1-b447-4c64-b428-50eebbe2c3bc">
+        <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="5aa37004-52de-4846-bb7b-1816d98562de" Stomp1="2a9ef349-fb29-4e66-99a9-cc66d10192cc" Stomp2="e11b1dc5-1f7d-42ad-af30-0539b3646b3c" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Threshold="5" Filter="40" Release="1" />
+        <Slot1 Bypass="0" Level="1.11397" Chorus="2.60938" VibratoDepth="0" VibratoRate="0" Mode="Chorus" />
+        <Slot2 Bypass="1" Delay="500" Feedback="7.03125" Level="1.71875" BPMSync="0" BPMMeter="1/32" />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="2a9ef349-fb29-4e66-99a9-cc66d10192cc" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 Bypass="1" Level="0.552316" Chorus="3.23438" VibratoDepth="2.9375" VibratoRate="4.45313" Mode="Chorus" />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="b3869f27-a9f1-4482-add4-9512c16917ea">
+        <Amp Bright_TwinAmp="0" Volume_TwinAmp="5.42969" Treble_TwinAmp="2.55469" Middle_TwinAmp="9.11719" Bass_TwinAmp="7.05469" Reverb_TwinAmp="1" Speed_TwinAmp="1" Intensity_TwinAmp="1" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="b3869f27-a9f1-4482-add4-9512c16917ea">
+        <Amp Bright_TwinAmp="0" Volume_TwinAmp="5.42969" Treble_TwinAmp="2.55469" Middle_TwinAmp="9.11719" Bass_TwinAmp="7.05469" Reverb_TwinAmp="1" Speed_TwinAmp="1" Intensity_TwinAmp="1" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="8b37839c-5798-4584-8aca-b7bfce4819a6" SpeakerModel0="d2b5f9c3-e33d-442a-b14c-f65d84aed0f5" SpeakerModel1="d2b5f9c3-e33d-442a-b14c-f65d84aed0f5" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="46.1538" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="d78598e7-3fa4-46da-aadc-5a7733b7f896" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.476419" Mic1Level="0.705377" Mic0XAxis="0" Mic1XAxis="0.685714" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0" Mic1Distance="0.257143" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1" OutputPan="1" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="8b37839c-5798-4584-8aca-b7bfce4819a6" SpeakerModel0="d2b5f9c3-e33d-442a-b14c-f65d84aed0f5" SpeakerModel1="d2b5f9c3-e33d-442a-b14c-f65d84aed0f5" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="46.1538" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic1Model="c8fce7b6-deaf-461c-8628-5cfe82c15173" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.819944" Mic1Level="0.334887" Mic0XAxis="-0.4" Mic1XAxis="0.857142" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.085714" Mic1Distance="0.285714" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0" Rack0="a8a839aa-35e1-4fac-8834-a0a1701c63d8" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="1" EchoLevel="5.78125" Time="30" Feedback="1" WowFilter="1.49219" Brightness="5.21875" RampStep="0" BPMSync="0" BPMMeter="1/4d" OutLevel="1.15271" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" OutputPan="1" Rack0="a8a839aa-35e1-4fac-8834-a0a1701c63d8" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" EchoLevel="5.21875" Time="30" Feedback="1" WowFilter="1" Brightness="5.21875" RampStep="0" BPMSync="0" BPMMeter="1/4d" OutLevel="0.790053" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="0.615266" />
+    <MidiAssignments />
+    <MetaInfo Description="Clean Stereo Jazz setup" Style="Jazz" SoundCharacter="Clean" Instrument="None" Body="Hollow" PickUpPosition="Neck" Artist="Pat Metheny" Band="" Song="" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

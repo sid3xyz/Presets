@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="7d8f1bb5-d79d-4e46-a87e-779f393daa2a" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="0" StereoInput="0" />
+    <Input Input="1" GateThreshold="0.000276" GateRelease="20" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="9f50e7f1-b447-4c64-b428-50eebbe2c3bc">
+        <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="0.92224" Stomp0="5aa37004-52de-4846-bb7b-1816d98562de" Stomp1="f5edced9-6dfc-4851-8651-f81f5423d210" Stomp2="7c499158-084f-49b1-9543-f7e9acc122e0" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Threshold="5" Filter="40" Release="1" />
+        <Slot1 Bypass="0" Switch="High" />
+        <Slot2 Bypass="0" Filter="0" Volume="2.38125" Drive="3.57188" Tone="4.07812" />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="1fbf7d6e-dad8-470f-b204-4d96b5466893">
+        <Amp Rhy1Gain_MesaMarkIV="9.5" Rhy1Bright_MesaMarkIV="0" Rhy2Gain_MesaMarkIV="9.95625" Rhy2Fat_MesaMarkIV="1" LeadGain_MesaMarkIV="8.59375" LeadFat_MesaMarkIV="0" R1Treble_MesaMarkIV="4.59375" R1R2Bass_MesaMarkIV="2.03906" R1R2Mid_MesaMarkIV="7.81875" R2Treble_MesaMarkIV="7.38438" LeadTreble_MesaMarkIV="8.59688" LeadBass_MesaMarkIV="1.34375" LeadMid_MesaMarkIV="7.75625" LeadDrive_MesaMarkIV="7.1" LeadBright_MesaMarkIV="0" PresenceR1_MesaMarkIV="2.4" MasterR1_MesaMarkIV="5" PresenceR2_MesaMarkIV="5.3" MasterR2_MesaMarkIV="6.2" ShiftR2_MesaMarkIV="0" PresenceLead_MesaMarkIV="2.7" MasterLead_MesaMarkIV="6.2" ShiftLead_MesaMarkIV="0" EqOnOff_MesaMarkIV="1" Eq80Hz_MesaMarkIV="6.96722" Eq240Hz_MesaMarkIV="4.83607" Eq750Hz_MesaMarkIV="3.85246" Eq2200Hz_MesaMarkIV="7.45901" Eq6600Hz_MesaMarkIV="8.77049" OutputLevel_MesaMarkIV="2" Reverb_MesaMarkIV="2.83125" PowerAmpType_MesaMarkIV="1" PowerAmpClass_MesaMarkIV="1" LeadVoicing_MesaMarkIV="1" Channel_MesaMarkIV="Lead" Master_MesaMarkIV="6.875" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="71a76a9f-cf70-4f59-971f-9864a055523c">
+        <Amp AmpFlexiGain="5" AmpFlexiBass="5" AmpFlexiMid="5" AmpFlexiTreble="5" AmpFlexiPresence="5" AmpFlexiReverb="1.25" AmpFlexiVolume="5" AmpFlexiEqModel="63993d7b-8cd0-4b72-bfe3-69951ef3e74a" AmpFlexiPowerAmpModel="a14c1f1e-be21-409d-9eb1-e9e2216c2b27" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.530769" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="1.54327" CabModel="849b3340-9e28-411f-9faf-e99b7b2bfb36" SpeakerModel0="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel1="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel2="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel3="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa">
+        <Cab Size="100" HighLevel="0.77" RoomType="Amp Closet" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="100" RoomPan="0.076923" RoomLevel="0.290307" Mic0Model="373859a6-cfc1-4c2c-ab8c-35ddbfb8ee77" Mic1Model="2b667232-0a83-4132-a18b-f51e71fa349c" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="-0.107692" Mic1Pan="0.046154" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.013158" Mic1XAxis="-0.973684" Mic0YAxis="0.078947" Mic1YAxis="-0.052632" Mic0Distance="0.036145" Mic1Distance="0.108434" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="9fa8c924-6543-4085-b55b-58b99aada17e" SpeakerModel0="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel1="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab Size="100" HighLevel="0.77" RoomType="Mid Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="0.076923" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.594604" Mic1Level="0.594604" Mic0XAxis="-0.028571" Mic1XAxis="0.8" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.028571" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="0.973377" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="59ab0817-b168-4bdc-b837-e3cba1efb2dd" Rack2="fe891a4f-6098-423d-b8dd-3213373b990c" Rack3="d0211742-18e6-4fdb-9efa-3d72e4ae515b">
+        <Slot0 />
+        <Slot1 Bypass="0" DecayTime="5.31094" Density="11" Color="3921.87" Mix="4.6875" OutLevel="1" />
+        <Slot2 Bypass="0" Image="0.578853" />
+        <Slot3 Bypass="0" Drive="1.05926" Attack="28.2188" Release="197.656" Ratio="2.0625" OutLevel="1.24094" />
+    </RackB>
+    <Output Output="0.632093" />
+    <MidiAssignments />
+    <MetaInfo Description="" Style="Rock" SoundCharacter="Hi-Gain" Instrument="H-H (LP)" Body="None" PickUpPosition="Other" Artist="Adam Jones" Band="" Song="" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

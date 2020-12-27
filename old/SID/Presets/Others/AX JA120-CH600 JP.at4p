@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="39c6136c-2b0b-4431-8de6-e72fe9773bf2" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="3" StereoInput="0" />
+    <Input Input="1" GateThreshold="0.015962" GateRelease="200" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="26c75920-d4bf-4e5e-900f-f78c70e06c17" Stomp1="2de5239a-78d6-4a01-82e6-2ea3afb60501" Stomp2="77a321dd-69e1-4474-be07-d8a97e78bd1f" Stomp3="e5644c95-e382-4cfe-9c1f-85451017771d" Stomp4="01648ef1-6369-4170-81a3-90dd20451260" Stomp5="babadeaf-9c28-4641-8fa9-d7366a3238a2">
+        <Slot0 Bypass="0" Output="1" Sensitivity="0.78125" />
+        <Slot1 Bypass="0" Depth="1.01563" Wah="99.0625" GuitarBass="1" />
+        <Slot2 Bypass="0" Freq="800.001" Resonance="0.75" Depth="25" PoleMode="12" BandMode="LP" />
+        <Slot3 Bypass="1" Gain="0" Level="9.60938" Tone="5.23438" BoostOnOff="0" />
+        <Slot4 Bypass="1" Volume="1" Sustain="4.51563" Blend="4.44531" Tone="4.5" ToneBoost="0" />
+        <Slot5 Bypass="0" Band31="0" Band62="-0.25" Band125="-0.5" Band250="-0.75" Band500="-0.5" Band1000="-0.25" Band2000="0" Band4000="0" Band8000="0" Band16000="0" Level="0" />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="a6d48956-a0e5-4d63-9c22-b5b38604d2a5" Stomp1="1910832b-2b47-46ff-b14c-46ec168e50e6" Stomp2="b1ad4a5d-1ad2-4b32-8532-945b869409e3" Stomp3="46f09ab5-ffd9-4c5b-8eec-681f880d4530" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Volume="0.793842" Intensity="1.01563" Rate="0" ChorusVibrato="Vibrato" />
+        <Slot1 Bypass="1" Gain="2.95313" Bass="1.5" Frequency="0" Mid="-1.40625" Treble="1.5" Volume="7.57813" />
+        <Slot2 Bypass="0" Tone="7.8125" Depth="0.84375" Level="7.34375" Rate="1.125" Intensity="High" Vibrato="1" />
+        <Slot3 Bypass="0" Key="C" Scale="Mixolydian" Mix="7.5" Voice1Level="100" Voice2Level="0" Voice3Level="0" Voice1Interval="4nd" Voice2Interval="Unison" Voice3Interval="Unison" />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="ac08939a-32bf-496c-96ac-5d6c530abf14">
+        <Amp Bright_Roland120="0" Volume_Roland120="0.3125" Distortion_Roland120="0" Reverb_Roland120="0" Treble_Roland120="5.46875" Mid_Roland120="3.51563" Bass_Roland120="5.46875" Speed_Roland120="5" Depth_Roland120="5" VibChr_Roland120="Off" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="016a8c2a-489e-49da-81d7-5b72feb60f74">
+        <Amp Volume_Champion="2.28906" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="59ab0817-b168-4bdc-b837-e3cba1efb2dd" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" DecayTime="4.72188" Density="25" Color="5890.63" Mix="16.875" OutLevel="1" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="0.49545" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="f7902634-12e9-4a2d-9f9a-bcd22781cdab" SpeakerModel0="f755dce5-b300-4aae-8b07-adac9da35705" SpeakerModel1="f755dce5-b300-4aae-8b07-adac9da35705" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab Size="101.5" HighLevel="0.77" RoomType="Amp Closet" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="c8fce7b6-deaf-461c-8628-5cfe82c15173" Mic1Model="2b667232-0a83-4132-a18b-f51e71fa349c" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.929388" Mic1Level="0.168439" Mic0XAxis="-0.653846" Mic1XAxis="0.023077" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0" Mic1Distance="0" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="0.537612" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="9ef10de4-2781-4ab7-9179-c1cc4b6615e5" SpeakerModel0="d052f84c-a5fd-4a69-9d4b-d4fa68c155f2" SpeakerModel1="d052f84c-a5fd-4a69-9d4b-d4fa68c155f2" SpeakerModel2="d052f84c-a5fd-4a69-9d4b-d4fa68c155f2" SpeakerModel3="d052f84c-a5fd-4a69-9d4b-d4fa68c155f2">
+        <Cab Size="101.5" HighLevel="0.77" RoomType="Amp Closet" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="50" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="c8fce7b6-deaf-461c-8628-5cfe82c15173" Mic1Model="2b667232-0a83-4132-a18b-f51e71fa349c" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.929388" Mic1Level="0.168439" Mic0XAxis="-0.569231" Mic1XAxis="0.123077" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0" Mic1Distance="0" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="3c8d23d7-959a-4479-b9c2-46af9a77ba46" Rack1="9f1147a6-302f-48f3-a5bc-26cc5d399a8b" Rack2="fe891a4f-6098-423d-b8dd-3213373b990c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" Dwell="4.8" Mixer="0.19375" ModelMix="10" Tone="1.8" OutLevel="0.891251" />
+        <Slot1 Bypass="0" BassGain="1" BassFreq="100" BassQ="0.7" MidGain="0.873788" MidFreq="1000" MidQ="0.7" HighGain="1" HighFreq="8000" HighQ="0.7" OutLevel="1" />
+        <Slot2 Bypass="0" Image="0" />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="5.62341" />
+    <MidiAssignments />
+    <MetaInfo Description="Clean : Jazz Amp 120 - Champion 600 :back off guitar volume: turn on metal distortion/blender/mudhoney for distorted sound: has Nirvana Chorus &amp; fender rack reverb.wah 10 as filter." Style="None" SoundCharacter="Clean" Instrument="None" Body="Solid Body" PickUpPosition="Neck" Artist="" Band="" Song="" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

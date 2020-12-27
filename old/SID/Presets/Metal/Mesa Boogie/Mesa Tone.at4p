@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="c8b17279-87f7-4337-80f3-7f186b4e29fa" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="1" StereoInput="1" />
+    <Input Input="1" GateThreshold="0.00140746" GateRelease="408.125" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="fa1de2e2-102b-4edf-b3b5-23ceaeddedf0" Stomp3="5478981b-b18a-469f-81e7-a3e228cc9d50" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 Bypass="0" Drive="9.21875" Level="4.21875" Tone="9.6875" />
+        <Slot3 Bypass="0" Comp="32.8125" Level="1" />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="0.296931" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="fa1de2e2-102b-4edf-b3b5-23ceaeddedf0" Stomp3="5478981b-b18a-469f-81e7-a3e228cc9d50" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 Bypass="0" Drive="10" Level="6.32813" Tone="5.07813" />
+        <Slot3 Bypass="0" Comp="41.4063" Level="1" />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1.66977" Model="a91067a3-fd80-40a8-be35-0681da5c4f47">
+        <Amp Volume_MesaMKIIIClean="3.74219" Treble_MesaMKIIIClean="5.42969" Bass_MesaMKIIIClean="10" Middle_MesaMKIIIClean="1" Master_MesaMKIIIClean="7.53906" Presence_MesaMKIIIClean="5.14844" Reverb_MesaMKIIIClean="1" Bright_MesaMKIIIClean="0" BassShift_MesaMKIIIClean="0" Rhythm2_MesaMKIIIClean="0" Deep_MesaMKIIIClean="0" Eq_MesaMKIIIClean="1" Band80Hz_MesaMKIIIClean="7.72727" Band240Hz_MesaMKIIIClean="6.13636" Band750Hz_MesaMKIIIClean="2.5" Band2200Hz_MesaMKIIIClean="5.27273" Band6600Hz_MesaMKIIIClean="7.72727" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="3.27812" Model="15761216-f2fe-4d41-a6ec-9bff8199517c">
+        <Amp AmpFlexiGain="5.39063" AmpFlexiBass="3.82813" AmpFlexiMid="0" AmpFlexiTreble="6.95313" AmpFlexiPresence="4.375" AmpFlexiReverb="0" AmpFlexiVolume="5.15625" AmpFlexiEqModel="bddb6c11-eb31-485e-8b85-4dd9bd9c0fe3" AmpFlexiPowerAmpModel="66658257-57d9-4798-b424-ef4b7cf9f58e" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="3.55452" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="8b147712-d44d-4564-a40f-fe288110ea6c" SpeakerModel0="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel1="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel2="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel3="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa">
+        <Cab Size="100" HighLevel="0.77" RoomType="Amp Closet" RoomMicType="Condenser 87" RoomMute="1" RoomSolo="0" RoomPhase="0" RoomWidth="0" RoomPan="0" RoomLevel="1" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="1" Mic1Level="8.91251e-11" Mic0XAxis="-0.023077" Mic1XAxis="0.8" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="1" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="5.62341" OutputPan="0.5" DryLevel="0.242188" DryLevelSolo="0" DryLevelMute="0" OutputPhase="-1.875" CabModel="8b147712-d44d-4564-a40f-fe288110ea6c" SpeakerModel0="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel1="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel2="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa" SpeakerModel3="2dc1a3c4-6a20-4deb-a9cd-5e939ae1e1fa">
+        <Cab Size="125" HighLevel="0.77" RoomType="Amp Closet" RoomMicType="Condenser 87" RoomMute="1" RoomSolo="0" RoomPhase="0" RoomWidth="7.43293" RoomPan="0" RoomLevel="0.757812" Mic0Model="373859a6-cfc1-4c2c-ab8c-35ddbfb8ee77" Mic1Model="00000000-0000-0000-0000-000000000000" Mic0Mute="0" Mic1Mute="1" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.757812" Mic1Level="8.91251e-11" Mic0XAxis="-0.05934" Mic1XAxis="0.8" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="1" Mic1Distance="0.014286" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="0.92224" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="0.723394" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="0.537612" />
+    <MidiAssignments />
+    <MetaInfo Description="MK III &amp; Dual Rec" Style="Metal" SoundCharacter="Bright" Instrument="H-H (LP)" Body="Solid Body" PickUpPosition="Bridge" Artist="" Band="Dream Theater" Song="I Walk Beside You" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

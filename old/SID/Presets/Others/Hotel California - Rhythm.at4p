@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="24c56519-5323-4cbe-a47c-71fe388294f1" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="3" StereoInput="0" />
+    <Input Input="1" GateThreshold="0.00082047" GateRelease="396.562" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="9f50e7f1-b447-4c64-b428-50eebbe2c3bc">
+        <Tuner Reference="440" NoteReferemce="A" Transpose="0" Temperament="Equal" />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="5aa37004-52de-4846-bb7b-1816d98562de" Stomp1="8d7ff76e-9273-46b6-95d5-3d7bd667fff2" Stomp2="babadeaf-9c28-4641-8fa9-d7366a3238a2" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Threshold="5" Filter="40" Release="1" />
+        <Slot1 Bypass="0" Band100="1.97242" Band200="1.90546" Band400="1" Band800="1" Band1600="1.88365" Band3200="1.97242" Band6400="3.34965" Level="0.54325" />
+        <Slot2 Bypass="0" Band31="0" Band62="0" Band125="0" Band250="0" Band500="0" Band1000="0" Band2000="0" Band4000="0" Band8000="0" Band16000="0" Level="6" />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="f058124b-498f-4899-8b29-35453d6aecff">
+        <Amp AmpFlexiGain="5" AmpFlexiBass="7.03125" AmpFlexiMid="5" AmpFlexiTreble="6.95313" AmpFlexiPresence="5" AmpFlexiReverb="3.28125" AmpFlexiVolume="6.25" AmpFlexiEqModel="aabbc79e-9994-4c85-a60a-fd9f01b06d8a" AmpFlexiPowerAmpModel="5d4952ab-2180-4f8f-bc53-59b17cda534d" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="5558e374-6d37-4674-a05e-2e005830d24e">
+        <Amp Channel_CarvinV3M="3" Master_CarvinV3M="2.8125" Reverb_CarvinV3M="3.28125" BoostActive_CarvinV3M="1" Boost_CarvinV3M="6.09375" Power_CarvinV3M="22W" Led_CarvinV3M="0" LedButton_CarvinV3M="1" LedColor_CarvinV3M="0" MultiSwitch1_CarvinV3M="Normal" MultiSwitch2_CarvinV3M="Normal" MultiSwitch3_CarvinV3M="Normal" EqX1_CarvinV3M="1" EqX2_CarvinV3M="1" EqX3_CarvinV3M="1" Gain1_CarvinV3M="2.03125" Bass1_CarvinV3M="7.03125" Mid1_CarvinV3M="4.375" Treble1_CarvinV3M="7.03125" Presence1_CarvinV3M="5" Volume1_CarvinV3M="3.28125" Gain2_CarvinV3M="0" Bass2_CarvinV3M="0" Mid2_CarvinV3M="0" Treble2_CarvinV3M="0" Presence2_CarvinV3M="0" Volume2_CarvinV3M="0.546875" Gain3_CarvinV3M="0" Bass3_CarvinV3M="0" Mid3_CarvinV3M="0" Treble3_CarvinV3M="0" Presence3_CarvinV3M="0" Volume3_CarvinV3M="0" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="0.810114" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="8e98245b-fd88-48b4-8951-2d6171c717ce" SpeakerModel0="a56188a9-a6bc-4373-903d-bbde779548f1" SpeakerModel1="a56188a9-a6bc-4373-903d-bbde779548f1" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab Size="100" HighLevel="0.77" RoomType="Hall" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="55.3368" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="d78598e7-3fa4-46da-aadc-5a7733b7f896" Mic1Model="1425abc1-2525-4d85-bfbf-f40009c2f19c" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="1.0037" Mic1Level="1.00106" Mic0XAxis="-0.842105" Mic1XAxis="0.342105" Mic0YAxis="0.0131579" Mic1YAxis="0" Mic0Distance="0" Mic1Distance="0.0963855" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0" CabModel="b1de33d6-c660-4bf6-b290-79626a35149e" SpeakerModel0="d61186a9-40d9-48d1-8891-94a5e6dcfc6b" SpeakerModel1="d61186a9-40d9-48d1-8891-94a5e6dcfc6b" SpeakerModel2="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83" SpeakerModel3="a3cc18b8-e9b4-49e3-b1ce-34c69b310b83">
+        <Cab Size="100" HighLevel="0.77" RoomType="Hall" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="53.5287" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="d78598e7-3fa4-46da-aadc-5a7733b7f896" Mic1Model="1425abc1-2525-4d85-bfbf-f40009c2f19c" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.604945" Mic1Level="0.584202" Mic0XAxis="-1" Mic1XAxis="0.030769" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0" Mic1Distance="0" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d0211742-18e6-4fdb-9efa-3d72e4ae515b" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 Bypass="0" Drive="1.08823" Attack="36.1875" Release="851.563" Ratio="1.5" OutLevel="0.615265" />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="1" />
+    <MidiAssignments />
+    <MetaInfo Description="Turn Tone on Guitar to 3" Style="Rock" SoundCharacter="Bright" Instrument="H-H (LP)" Body="Solid Body" PickUpPosition="Bridge" Artist="Billy Chase" Band="" Song="Hotel California" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>

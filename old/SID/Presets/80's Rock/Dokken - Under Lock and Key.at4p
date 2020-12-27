@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<Preset Version="1" Format="at4p" GUID="230f4800-897b-4a77-a7df-daa30dc82d9a" PresetBPM="120" ProgramChange="-1">
+    <Chain Preset="2" StereoInput="0" />
+    <Input Input="0.827883" GateThreshold="0.00202776" GateRelease="454.375" GateDepth="-60" />
+    <Tuner Bypass="1" Mute="0" OutputVolume="1" TunerType="354eca51-457a-41b7-917d-ce6117586905">
+        <Tuner />
+    </Tuner>
+    <StompA Bypass="0" Mute="0" OutputVolume="1" Stomp0="8d7ff76e-9273-46b6-95d5-3d7bd667fff2" Stomp1="64e7c1cd-b860-40c7-930b-6d820b1ffa77" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 Bypass="0" Band100="0.421696" Band200="0.749894" Band400="0.891251" Band800="1.1885" Band1600="1.41254" Band3200="0.749894" Band6400="0.421696" Level="3.98107" />
+        <Slot1 Bypass="1" Volume="0.641003" Drive="0.234375" />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompA>
+    <StompB Bypass="0" Mute="0" OutputVolume="1" Stomp0="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp1="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp2="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp3="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp4="773b8ea7-b54a-4a3c-99df-ffbbf6d29271" Stomp5="773b8ea7-b54a-4a3c-99df-ffbbf6d29271">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+        <Slot4 />
+        <Slot5 />
+    </StompB>
+    <AmpA Bypass="0" Mute="0" OutputVolume="1" Model="fb5fc82f-a926-4591-87d2-168906fd79d3">
+        <Amp AmpFlexiGain="10" AmpFlexiBass="3.20313" AmpFlexiMid="2.10938" AmpFlexiTreble="3.90625" AmpFlexiPresence="3.20313" AmpFlexiReverb="0" AmpFlexiVolume="10" AmpFlexiEqModel="adfff9d9-0883-4847-884d-ea7c74f125d7" AmpFlexiPowerAmpModel="ac1515f3-d554-469f-911c-d8577d6d2da0" />
+    </AmpA>
+    <AmpB Bypass="0" Mute="0" OutputVolume="1" Model="d089ef66-b5c4-4274-910c-6a6ee194cf04">
+        <Amp AmpFlexiGain="9.14063" AmpFlexiBass="3.98438" AmpFlexiMid="4.6875" AmpFlexiTreble="5.39063" AmpFlexiPresence="5" AmpFlexiReverb="0.234375" AmpFlexiVolume="9.6875" AmpFlexiEqModel="adfff9d9-0883-4847-884d-ea7c74f125d7" AmpFlexiPowerAmpModel="45241198-c5c9-49b4-b8e6-62e54a7d174d" />
+    </AmpB>
+    <LoopFxA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxA>
+    <LoopFxB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </LoopFxB>
+    <CabA Bypass="0" Mute="0" OutputVolume="1.2079" OutputPan="0" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="-0.825" CabModel="445c0a64-c729-4502-b7c4-91e211a7fc21" SpeakerModel0="a56188a9-a6bc-4373-903d-bbde779548f1" SpeakerModel1="a56188a9-a6bc-4373-903d-bbde779548f1" SpeakerModel2="a56188a9-a6bc-4373-903d-bbde779548f1" SpeakerModel3="a56188a9-a6bc-4373-903d-bbde779548f1">
+        <Cab Size="100" HighLevel="0.77" RoomType="Small Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="4.38178" RoomPan="0.030769" RoomLevel="8.91251e-11" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.625453" Mic1Level="0.563211" Mic0XAxis="-0.376923" Mic1XAxis="1" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.141428" Mic1Distance="0.971429" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabA>
+    <CabB Bypass="0" Mute="0" OutputVolume="0.5233" OutputPan="1" DryLevel="8.91251e-11" DryLevelSolo="0" DryLevelMute="0" OutputPhase="0.3125" CabModel="ff9cad13-059d-46bf-815a-d8f851c410d4" SpeakerModel0="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel1="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel2="942153d2-81fb-4b08-9fc2-0e07a34e9ca7" SpeakerModel3="942153d2-81fb-4b08-9fc2-0e07a34e9ca7">
+        <Cab Size="100" HighLevel="0.77" RoomType="Small Studio" RoomMicType="Condenser 87" RoomMute="0" RoomSolo="0" RoomPhase="0" RoomWidth="18.6791" RoomPan="0" RoomLevel="8.91251e-11" Mic0Model="1e41acc4-85af-4e84-bee4-eabc0be5fef1" Mic1Model="9e444286-cab4-46a4-bfa3-a6d55b3ffcfb" Mic0Mute="0" Mic1Mute="0" Mic0Solo="0" Mic1Solo="0" Mic0Phase="0" Mic1Phase="0" Mic0Pan="0" Mic1Pan="0" Mic0Level="0.625453" Mic1Level="0.563211" Mic0XAxis="-0.257143" Mic1XAxis="1" Mic0YAxis="0" Mic1YAxis="0" Mic0Distance="0.142857" Mic1Distance="1" Mic0Speaker="0" Mic1Speaker="1" />
+    </CabB>
+    <RackA Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d0211742-18e6-4fdb-9efa-3d72e4ae515b" Rack1="1edbb450-d048-11dc-95ff-0800200c9a66" Rack2="59ab0817-b168-4bdc-b837-e3cba1efb2dd" Rack3="b66b51c2-d9a3-4909-b7e0-cd1e51636e97">
+        <Slot0 Bypass="0" Drive="1.50433" Attack="38.0313" Release="577.344" Ratio="3.60938" OutLevel="1" />
+        <Slot1 Bypass="0" Waveform="Sine" Rate="0.5" Depth="37.8984" StereoMode="Stereo" Mix="5.46875" OutLevel="1" BPMSync="1" BPMMeter="1/1" />
+        <Slot2 Bypass="0" DecayTime="1.33281" Density="0" Color="3125" Mix="23.4375" OutLevel="1" />
+        <Slot3 Bypass="0" Band20="0" Band25="0" Band31="0" Band40="0" Band50="0" Band63="0" Band80="0" Band100="0" Band125="-1.5" Band160="-1.5" Band200="-1.5" Band250="-0.750001" Band315="-1.5" Band400="0" Band500="-1.5" Band630="0" Band800="0" Band1000="-0.75" Band1250="1.5" Band1600="0.750003" Band2000="0.750001" Band2500="1.5" Band3150="1.5" Band4000="-2e-06" Band5000="-1.5" Band6300="-0.750001" Band8000="-4.5" Band10000="-8.25" Band12500="-9" Band16000="-9.75" Band20000="-12.75" OutLevel="0" />
+    </RackA>
+    <RackB Bypass="0" Mute="0" OutputVolume="1" OutputPan="0.5" Rack0="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack1="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack2="d3b93507-420b-48f6-ac82-6f6f2892726c" Rack3="d3b93507-420b-48f6-ac82-6f6f2892726c">
+        <Slot0 />
+        <Slot1 />
+        <Slot2 />
+        <Slot3 />
+    </RackB>
+    <Output Output="0.850526" />
+    <MidiAssignments />
+    <MetaInfo Description="Lynch Tone " Style="Rock" SoundCharacter="Bright" Instrument="H-H (LP)" Body="Solid Body" PickUpPosition="Bridge" Artist="George Lynch" Band="Dokken" Song="" SongStructureElement="None" KeyWords="" Type="Electric Guitar" />
+</Preset>
